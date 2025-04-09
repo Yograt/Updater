@@ -37,7 +37,7 @@
                 android:paddingBottom="8sp"
                 android:textColor="?android:attr/textColorPrimary"
                 android:textSize="16sp"
-                tools:text="Evolution X 20" />
+                tools:text="LineageOS 20" />
 
             <TextView
                 android:id="@+id/build_date"
@@ -116,6 +116,7 @@
                 android:background="?android:selectableItemBackgroundBorderless"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textColor="?android:attr/textColorPrimary"
                 android:padding="8dp"
                 tools:text="Pause" />
         </LinearLayout>
